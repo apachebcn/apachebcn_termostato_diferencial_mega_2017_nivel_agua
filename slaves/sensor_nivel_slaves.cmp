@@ -1,0 +1,374 @@
+Cmp-Mod V01 Created by Cvpcb 0.201506030104+5696~23~ubuntu14.04.1-product   date = mié 03 jun 2015 22:15:32 CEST
+
+BeginCmp
+TimeStamp = /54B9C5FD;
+Reference = ARDUINO_L1;
+ValeurCmp = ARDUINO L;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x12;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9C60A;
+Reference = ARDUINO_R1;
+ValeurCmp = ARDUINO_R;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x12;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BA9D61;
+Reference = conex-termostato-diff1;
+ValeurCmp = + - TRIG ECHO;
+IdModule  = Connect:bornier4;
+EndCmp
+
+BeginCmp
+TimeStamp = /55410BB1;
+Reference = Con_COM1;
+ValeurCmp = CONN_1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /554CA54D;
+Reference = Con_S1;
+ValeurCmp = CONN_1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B84AD;
+Reference = Con_S2;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C0F67;
+Reference = Debug1;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /557096F2;
+Reference = Ext_out1;
+ValeurCmp = Vcc Gnd Data Enable Load Clock;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /554AAEDB;
+Reference = LED_S1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B7B72;
+Reference = LED_S2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /553EC537;
+Reference = LED_SEND1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /554BF12F;
+Reference = Multiplier1;
+ValeurCmp = x2 x3 x4 x5 x6 x7 x8 GND;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /554A8A64;
+Reference = RL1;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556A7CFD;
+Reference = RL2;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556A7FE8;
+Reference = RL3;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556A8276;
+Reference = RL4;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556A8E4B;
+Reference = RL5;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556A9098;
+Reference = RL6;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556A9194;
+Reference = RL7;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556A9292;
+Reference = RL8;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556AEA5F;
+Reference = RL9;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556AF237;
+Reference = RL10;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556AF2D7;
+Reference = RL11;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556AF489;
+Reference = RL12;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556AF52D;
+Reference = RL13;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556AF607;
+Reference = RL14;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556AF6AF;
+Reference = RL15;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556AF759;
+Reference = RL16;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556B4C47;
+Reference = R_LED_S1;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556B46E5;
+Reference = R_LED_S2;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556B569F;
+Reference = R_LED_SEND1;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /556B5DC3;
+Reference = R_L_COM1;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /556B6AFA;
+Reference = R_TRIG1;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55402C56;
+Reference = Shift_S1;
+ValeurCmp = 74LS165;
+IdModule  = Housings_DIP:DIP-16__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B7A9A;
+Reference = Shift_S2;
+ValeurCmp = 74LS165;
+IdModule  = Housings_DIP:DIP-16__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C9A41;
+Reference = TL1;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554A8719;
+Reference = TL2;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554D4A9F;
+Reference = TL3;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554CA311;
+Reference = TL4;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554CA6BE;
+Reference = TL5;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /556A76A3;
+Reference = TL6;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554CA6E2;
+Reference = TL7;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554CA6F4;
+Reference = TL8;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B7AA0;
+Reference = TL9;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554D4A07;
+Reference = TL10;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554D4A20;
+Reference = TL11;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554D4A32;
+Reference = TL12;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554D4A44;
+Reference = TL13;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554D4A5C;
+Reference = TL14;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554D4A62;
+Reference = TL15;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554D4A68;
+Reference = TL16;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554AACF9;
+Reference = T_LED_S1;
+ValeurCmp = BC337;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B7B63;
+Reference = T_LED_S2;
+ValeurCmp = BC849;
+IdModule  = SOT23;
+EndCmp
+
+EndListe
